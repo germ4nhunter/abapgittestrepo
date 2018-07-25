@@ -5,5 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT zzztesttest2.
 
-WRITE 'HIAAAAAAAAAAAAAAAAAHallo2'.
+WRITE 'fdsfsd'.
 WRITE 'HIAAAAAAAAAAAAAAAAAHallo2'.
