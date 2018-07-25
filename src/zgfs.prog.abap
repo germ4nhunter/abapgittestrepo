@@ -6,3 +6,4 @@
 REPORT zgfs.
 
 WRITE 'HALLO'.
+WRITE 'AGAIN'.
